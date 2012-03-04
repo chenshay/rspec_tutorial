@@ -6,7 +6,7 @@ describe Book do
     @book = Book.new "Title", "Author", :category
   end
 
-  describe "#new" do #book new should do what
+  describe "#new" do
     it 'returns a new book object' do
       @book.should be_an_instance_of Book
     end
