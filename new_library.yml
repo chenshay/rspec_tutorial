@@ -1,0 +1,21 @@
+---
+- !ruby/object:Book
+  title: Javascript
+  author: Book Author
+  category: :development
+- !ruby/object:Book
+  title: Design
+  author: Book Author
+  category: :design
+- !ruby/object:Book
+  title: Usability
+  author: Book Author
+  category: :usability
+- !ruby/object:Book
+  title: Development
+  author: Book Author
+  category: :development
+- !ruby/object:Book
+  title: Design 2
+  author: Book Author
+  category: :design
