@@ -4,7 +4,6 @@ describe Book do
 
   before :each do
     @book = Book.new "Title", "Author", :category
-    #@book = Book.new
   end
 
   describe "#new" do #book new should do what
